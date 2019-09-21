@@ -12,6 +12,6 @@ def add_item(cost, name, number = 1 )
   @items << name
 end
 
-def add_i 
+def add_item  
 
 end
