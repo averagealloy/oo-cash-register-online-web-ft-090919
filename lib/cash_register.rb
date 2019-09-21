@@ -10,6 +10,7 @@ end
 def add_item(cost, name, number = 1 )
   self.total = cost * number
   @items << name
-end 
+end
+ 
 
 end
