@@ -8,6 +8,7 @@ def initialize(discount = 0)
 end
 def add_item(cost, name, number = 1 )
   self.total = cost * number
-  @items << 
+  @items << name
+  ed 
 
 end
