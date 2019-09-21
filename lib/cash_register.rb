@@ -34,4 +34,7 @@ class CashRegister
   # subtracts the last transaction from the total
   end
 
-end 
+end
+
+tester = CashRegister.new
+tester.add_item(4, "carrots", 4)
