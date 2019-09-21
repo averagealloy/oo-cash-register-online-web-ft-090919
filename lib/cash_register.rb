@@ -1,1 +1,1 @@
-class CashR
+class CashReg
