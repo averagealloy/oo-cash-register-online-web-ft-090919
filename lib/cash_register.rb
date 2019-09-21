@@ -3,6 +3,7 @@ attr_acessor :discount, :item, :last_transaction, :total
 
 def initialize(discount = 0)
   @item = []
-  @discount = discount 
+  @discount = discount
+  
 
 end
