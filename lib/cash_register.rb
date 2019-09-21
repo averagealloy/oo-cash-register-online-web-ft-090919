@@ -18,4 +18,4 @@ def add_item_2(cost, name, number = 1 )
 
  def apply_discount
  end
-end
+e
