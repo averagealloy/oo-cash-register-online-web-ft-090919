@@ -5,6 +5,7 @@ def initialize(discount = 0)
   @item = []
   @discount = discount
   @total = 0
-  
+end
+
 
 end
