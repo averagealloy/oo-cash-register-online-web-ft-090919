@@ -14,6 +14,7 @@ end
 
 def add_item_2(cost, name, number = 1 )
    self.total = cost * number
- end 
+ end
+ 
 
 end
