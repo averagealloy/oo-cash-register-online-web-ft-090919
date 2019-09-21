@@ -1,6 +1,6 @@
 class CashRegister
 attr_acessor :discount, :item, :last_transaction, :total
 
-def initialize(discount )
+def initialize(discount)
 
 end
