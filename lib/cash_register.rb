@@ -6,6 +6,6 @@ def initialize(discount = 0)
   @discount = discount
   @total = 0
 end
-def add_item(cost)
+def add_item(cost, na)
 
 end
