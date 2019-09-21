@@ -1,4 +1,4 @@
 class CashRegister
-attr
+attr_a
 
 end
