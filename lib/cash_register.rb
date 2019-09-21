@@ -1,4 +1,4 @@
 class CashRegister
-attr_acessor :discount, 
+attr_acessor :discount, :item 
 
 end
